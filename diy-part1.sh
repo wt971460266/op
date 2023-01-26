@@ -21,5 +21,3 @@
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 #echo 'src-git kiddin9 https://github.com/kiddin9/openwrt-packages' >>feeds.conf.default
 echo 'src-git shidahuilang https://github.com/shidahuilang/openwrt-package' >>feeds.conf.default
-
-
